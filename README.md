@@ -23,5 +23,5 @@ According to the chart above, December has a max temperature of **83**, a minimu
 
 
 ### Surfs Up Summary
-
+In comparison, both the termperature statistics for June and December seem closely related. December seems slightly cooler with an average 4°, a minimum 8°, and a maximum 2° less than June's temperature. This goes to show that Oahu seems to have a fairly warm climate all through the year and having a "Surf n' Shake" shop will be viable. A query on how sunny and humid it is could also be run since there's a correlation between hot and humid climates and an increase in ice cream consumption. Percipitation and wind speed could also be queried as Hawaii is known to have gusty winds and flash flooding during the rainy season.   
 
